@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bean</groupId>
-	<artifactId>SpringBean</artifactId>
+	<artifactId>SpringBean-docker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>SpringBean</name>
